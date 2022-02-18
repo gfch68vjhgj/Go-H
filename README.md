@@ -15,7 +15,7 @@
 
 ### 附加
 
-> 1. 一键部署 Gost(ss+mws) 到 [KubeSail](https://kubesail.com/template/gfch68vjhgj/Go-H/)。
+> 1. 一键部署 Gost(ss+mws) 到 [KubeSail](https://kubesail.com/template/gfch68vjhgj/gost-heroku/)。
 
 ### 参考 
 *https://github.com/ginuerzh/gost*
